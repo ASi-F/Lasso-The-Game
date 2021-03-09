@@ -1,0 +1,26 @@
+This mode has two types of coins.
+
+
+
+The gold coins increase the points by 1.
+
+
+
+The bombs decrease the number of points by 1.
+The game ends if the player catches 5 or more bomb. The user can end the game themselves by clicking on the exit button.
+The number of Bombs out of 5 caught by the player currently is diplayed on the upper left side of the screen. The game
+gradually becomes more difficult as the number of bombs increase.After the game ends the user is redirected to the score
+board where they can see their current score, their personal high score ,the overall high score and the leaderboard.
+
+The controls are as follows:
+Press the up key to throw the lasso.
+Press the down key to yank the lasso.
+Press the right key to rotate the lasso anticlockwise.
+Press the left key to rotate the lasso clockwise.
+Press spacebar to loop the lasso.
+Click on the exit button on the top right to leave the game.This will redirect the player to the score board.
+
+Throwing action - throws the lasso loop in the direction in which the lasso is oriented.
+Yank action - Pulls back the lasso loop.
+Loop action - Loop the lasso to catch the nearby coins! Doesnot work when the lasso is in yanked position.
+Rotating action - Rotate the lasso to change the direction of initial throw. Works only when the lasso is in yanked position
