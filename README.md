@@ -1,2 +1,4 @@
 # Lasso-The-Game
-This is a basic game made using only C++ and the graphics from simplecpp. This is a cource project for the CS101 cource for the abnormal semester 2020.
+This is a game made using C++ and the graphics from simplecpp. This is the cource project for the CS101 cource autumn semester 2020.
+
+[Documentation](README.pdf)
