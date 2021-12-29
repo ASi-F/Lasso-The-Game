@@ -53,4 +53,3 @@ public:
 };
 
 #endif
-//g++ -std=c++11 -Wall -o lasso lasso.cpp MovingObject.cpp coin.cpp BigWords.cpp screens.cpp HomeScreen.cpp  preGameScreen.cpp InfoScreen.cpp classicInstr.cpp arcadeInstr.cpp postGame.cpp Classic.cpp Arcade.cpp main.cpp -lsprite -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
