@@ -1,5 +1,5 @@
 # Lasso-The-Game
 
-This is a game made using C++ and the graphics from simplecpp. This is the cource project for the CS101 course autumn semester 2020.
+Lasso is an arcade game based on Fruit Ninja made in C++ using the simple_cpp library. This game is the course project for CS-101 Abnormal Semester 2020-21 taught by Prof. Bhaskaran Raman, CSE IITB. 
 
 [Documentation](README.pdf)
